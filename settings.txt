@@ -1,0 +1,5 @@
+font_names=Ambidexter,Brusher,Arial Black,Kazimir,Russian New,zzzz,Wremena,Pushkin,morpheus
+font_size_min=30
+font_size_max=120
+words_count_max=30
+delay_milliseconds_max=500
